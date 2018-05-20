@@ -4,7 +4,7 @@ You have done so much to enable creators to make and share exciting videos, whet
 
 Many communities have spawned around channels and topics, with comment sections ranging from support, to fully-blown drama. And whilst there is quite a lot of trolling, the positive and supportive comments far outweigh the negativity.
 
-However, many of us viewers are frustrated. Those of us who spend hours watching content (and ads) have been receiving videos with worse content during the past year, more clickbait, less meat, more in-video ads, and fillers due to the 10 minute mark for mid-roll ads.
+However, many of us viewers are frustrated. Those of us who spend hours watching content (and ads) have been receiving videos with worse content during the past year, more clickbait, less meat, more in-video ads, and fillers due to the [10 minute mark for mid-roll ads](https://support.google.com/youtube/answer/6175006?hl=en).
 
 Additionally, too many creators are making videos complaining about YouTube's policies and demonetisation, even on channels that didn't use to post regularly about that (e.g. PewDiePie, h3h3, Casey Neistat, Philip DeFranco, MrBeast, Jörg Sprave, and a myriad of other creators). A quick search for "demonetized" on YouTube returns around 369,000 videos. That's a lot of angry creators.
 
@@ -14,9 +14,9 @@ The way we see it is that there are three groups of problems currently plaguing 
 
 ### 1. Problems regarding monetisation:
 
-After demonetisation was introduced over a year ago, a lot of creators were concerned, and after the first few high-profile cases started coming in, users and news outlets started calling it the "Adpocalypse".
+After [demonetisation](https://medium.com/internet-creators-guild/youtube-de-monetization-explained-44464f902a22) was introduced over a year ago, a lot of creators were concerned, and after the first few [high-profile cases](https://www.youtube.com/watch?v=SOa6PA8XQtQ) started coming in, users and news outlets started calling it the ["Adpocalypse"](https://www.forbes.com/sites/erikkain/2017/09/18/adpocalypse-2017-heres-what-you-need-to-know-about-youtubes-demonetization-troubles/#b24fd256c267).
 
-One solution that is increasingly being used by creators is to use Patreon, and in some cases that works really well, for example: musicians, artists, writers, cartoonists, animators, etc. But it is still an extra action (and account) a viewer has to make on a 3rd party website, which means a lot of potential contributors will be alienated. This would be solved with channel-based subscriptions similar to Twitch. We know you are experimenting with (and currently rolling out) a paid subscription system for channels, which is a good solution on paper, but in our opinion this is not the best solution.
+One solution that is increasingly being used by creators is to use [Patreon](https://www.patreon.com/), and in some cases that works really well, for example: musicians, artists, writers, cartoonists, [animators](https://www.patreon.com/cyanide_and_happiness#20180505YTannouncement), etc. But it is still an extra action (and account) a viewer has to make on a 3rd party website, which means a lot of potential contributors will be alienated. This would be solved with channel-based subscriptions similar to [Twitch](https://www.twitch.tv/subs). We know you are experimenting with (and currently rolling out) a [paid subscription system for channels](http://adage.com/article/digital/youtube-set-introduce-paid-subscriptions-spring/239437/), which is a good solution on paper, but in our opinion this is not the best solution.
 
 An option to consider instead might be to establish a pot for monthly payouts. For example, a user might decide to contribute $5, $10, or $20 per month, with a similar model to Spotify or Netflix. The amount then gets divided at the end of the month between YouTubers with a percentage-per-creator calculated by an algorithm based on subscriptions, likes/dislikes, time viewed per channel, amongst other parameters.
 
@@ -26,13 +26,13 @@ Furthermore, this can work without disrupting the business model of YouTube Red.
 
 ### 2. Problems regarding content rules and bots:
 
-One of the issues here has been communication in the past regarding changes. Recently Susan Wojcicki has stated you will be making changes in 2018 regarding how you communicate with creators. However, the wording seems to favour giving a "heads up" instead of proactively holding discussion of changes that will create major repercussions for creators.
+One of the issues here has been communication in the past regarding changes. Recently Susan Wojcicki [has stated](https://9to5google.com/2018/02/02/susan-wojcicki-youtube-ceo-five-priorities-creators-2018/) you will be making changes in 2018 regarding how you communicate with creators. However, the wording seems to favour giving a "heads up" instead of proactively holding discussion of changes that will create major repercussions for creators.
 
-However, that is only one part of the problem. One common complaint is that content decisions regarding monetisation, and the automatic "category / subcategory" the video falls under is not transparent enough. Some people even figured out how to enumerate the category IDs for sensitive content. Interestingly enough, that document also dives into the case of systematically suppressing demonetised videos from "suggested videos". By making this information visible to creators, they will be able to make decisions that will influence the direction in which they wish to take their channel.
+However, that is only one part of the problem. One common complaint is that content decisions regarding monetisation, and the automatic "category / subcategory" the video falls under is not transparent enough. Some people even [figured out how to enumerate the category IDs](https://docs.google.com/document/d/155yNpfR7dGKuN-4rbrvbJLcJkhGa_HqvVuyPK7UEfPo/edit) for sensitive content. Interestingly enough, that document also dives into the case of systematically suppressing demonetised videos from "suggested videos". By making this information visible to creators, they will be able to make decisions that will influence the direction in which they wish to take their channel.
 
 Rules also have to be made explicit, and reasons for flagging, or why videos were categorised in a certain way should be easily viewable in the Creator Studio, along with any additional information that could help the creator understand where he went wrong and how to improve / fix it. Timestamps of infringing content (the same as those applied to copyrighted content) are also a big plus.
 
-Dude Perfect and PewDiePie's subscribers have also mentioned a couple of instances where X-rated ads were shown on some of his videos, as their videos were placed in categories meant for mature audiences, whereas clearly their viewers have a wide age range.
+Dude Perfect and PewDiePie's subscribers have also mentioned a couple of instances where [X-rated ads were shown](http://www.dailymail.co.uk/sciencetech/article-5602545/YouTube-slammed-showing-auto-play-PORN-adverts-popular-videos-send-users-smutty-site.html) on some of his videos, as their videos were placed in categories meant for mature audiences, whereas clearly their viewers have a wide age range.
 
 ### 3. UX and notification issues:
 
@@ -46,9 +46,9 @@ As a UX bonus, if a creator uploads something new and a user is currently on You
 
 ### What have been the consequences on the current policies and problems?
 
-Jörg Sprave started The YouTubers Union movement recently, where he has 15K+ followers on his Facebook Group. He plans to take direct action such as strikes, and communicate constantly with you to try to convince you to make changes that will improve the lives of content creators.
+Jörg Sprave started [The YouTubers Union](https://www.facebook.com/groups/youtuberunion) movement recently, where he has 15K+ followers on his [Facebook Group](https://www.facebook.com/search/top/?q=the%20youtubers%20union). He plans to take direct action such as strikes, and communicate constantly with you to try to convince you to make changes that will improve the lives of content creators.
 
-PewDiePie has been talking about the issues for more than a year, to the point he changed his entire delivery style accordingly. Casey Neistat interviewed YouTube's head of business (which was a great start, as mentioned in the comments of the video), however, much is left to be done.
+PewDiePie has been talking about the issues for more than a year, to the point he changed his entire delivery style accordingly. Casey Neistat [interviewed YouTube's head of business](https://www.youtube.com/watch?v=ycuMyyqBWQY) (which was a great start, as mentioned in the comments of the video), however, much is left to be done.
 
 As viewers, we don't really want to meddle with the politics of what is happening at YouTube, nor with the frustrations of the creators. Instead, we want quality content. Many of us don't watch Netflix, Hulu, Amazon Prime; instead, we rely on Youtube for our daily dose of entertainment. But something is really wrong when a lot of the content we watch includes long segments with complaints or rants about demonetisation, and the other issues mentioned in this article.
 
@@ -64,7 +64,8 @@ We would also like to re-iterate the demands posted on Jörg Sprave's union webs
 
 - Monetisation:
   - Monetise everyone: Bring back monetisation for smaller channels
-  - Disable the (auto-flagging/demonetising) bots. Add a voting system aided by AI (see Valve's VACnet)
+  - Disable the (auto-flagging/demonetising) bots.
+  - Add a voting system aided by AI ([see Valve's VACnet](https://www.youtube.com/watch?v=ObhK8lUfIlc))
   - Pay for the views
   - Stop demonetisation as a whole
   - Pay according to delivered value
@@ -73,7 +74,7 @@ We would also like to re-iterate the demands posted on Jörg Sprave's union webs
   - Equal treatment for all partners
   - Clarify the rules
 
-You can read the extended version of the union's demands on their website.
+You can read the extended version of the union's demands on [their website](https://youtubersunion.org/).
 
 ### How can you implement this?
 
@@ -82,7 +83,7 @@ Set up three fireteams, one dedicated to the monetisation issues, each one dedic
 These teams should be nimble and be able to act with few constraints and red tape. I'd suggest the following structure:
 
 - Each team has 1 senior backend engineer, 1 medior frontend developer, 1 senior frontend developer, 1 QA engineer, and 1 team leader who is also experienced with the code base and can help with code reviews and basic project management. Some teams might require additional backend developers depending on the complexity of the issue.
-- Each team should start the project with a kick-off, determining all milestones from the start. One strategy might be to hold a 1-day meeting with several senior product managers, designers, backend engineers and infrastructure/devops, a compartmentalised list should be brought and each topic should be discussed, either accepted or rejected, and difficulty determined via planning poker.
+- Each team should start the project with a kick-off, determining all milestones from the start. One strategy might be to hold a 1-day meeting with several senior product managers, designers, backend engineers and infrastructure/devops, a compartmentalised list should be brought and each topic should be discussed, either accepted or rejected, and difficulty determined via [planning poker](https://en.wikipedia.org/wiki/Planning_poker).
 - 1 additional project manager who oversees all 3 teams, reports status directly to Susan, and attends daily stand-ups for all 3 teams.
 - 1-2 Infrastructure/devops engineers ensure that CI/CD are setup, test/production clusters are ready, and can immediately help with any needs (subdomains, socket.io, anything that needs to be deployed) during the whole part of the process.
 - This approach, with a positive attitude towards change, and a healthy dose of open-mindedness, may ultimately not only save YouTube whilst feeding content creators, but it may also establish a forward-thinking platform which could outlive us all.
@@ -90,6 +91,6 @@ These teams should be nimble and be able to act with few constraints and red tap
 Signed,
 The viewers.
 
-PS. Big props to Dear Github for the inspiration for the style and wording of this post.
+PS. Big props to [Dear Github](https://github.com/dear-github/dear-github) for the inspiration for the style and wording of this post.
 
 PPS. You have our permission to re-upload and modify this post as you see fit.
