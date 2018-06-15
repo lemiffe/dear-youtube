@@ -22,7 +22,7 @@ An option to consider instead might be to establish a pot for monthly payouts. F
 
 In return, viewers are rewarded with fewer ads depending on how much they contribute per month. Google naturally takes a cut from these proceeds.
 
-Furthermore, this can work without disrupting the business model of YouTube Red. If we contribute $25 or more per month, why not offer the option to subscribe to YouTube Red, but instead of keeping the $10, your revenue would depend on viewing habits, keeping $5-10 a month depending on the amount of time viewing regular YouTube, versus YouTube Red series.
+Furthermore, this can work without disrupting the business model of YouTube Red ([now apparently called](https://www.youtube.com/watch?v=-nk3tuFltOY) [YouTube](https://youtube.googleblog.com/2018/05/introducing-youtube-premium.html) [Premium](https://www.engadget.com/2018/05/17/google-play-youtube-music-premium-strategy/)). If we contribute $25 or more per month, why not offer the option to subscribe to YouTube Premium, but instead of keeping the $10, your revenue would depend on viewing habits, keeping $5-10 a month depending on the amount of time viewing regular YouTube, versus YouTube Premium exclusives.
 
 ### 2. Problems regarding content rules and bots:
 
@@ -54,7 +54,7 @@ As viewers, we don't really want to meddle with the politics of what is happenin
 
 ### Our proposal:
 
-We know the issue of figuring out a compromise between ads, paid subscriptions, and YouTube Red is a complicated one, potentially involving everyone from your legal team, accounting, engineering, product, designers, and project manager.
+We know the issue of figuring out a compromise between ads, paid subscriptions, and YouTube Premium is a complicated one, potentially involving everyone from your legal team, accounting, engineering, product, designers, and project manager.
 
 An intermediary step may be: While you figure out subscriptions (and please make it easy to pay), then you should at least cover part of the salary of the creators that get millions of views, but are heavily demonetised, maybe based on the amount of views and likes per video.
 
