@@ -36,7 +36,7 @@ Dude Perfect and PewDiePie's subscribers have also mentioned a couple of instanc
 
 ### 3. UX and notification issues:
 
-Videos we have viewed before (or almost finished watching and then switched to another video) constantly reappear in the suggestions. These should be excluded by the suggestions filter as few people would want to watch the same video twice (music videos being an exception).
+Videos we have viewed before (or almost finished watching and then switched to another video) constantly reappear in the suggestions. These should be excluded by the suggestions filter as few people would want to watch the same video twice (music videos being an exception). And [please](https://www.youtube.com/watch?v=XdkMrDmODtw), [do not rework](https://www.youtube.com/watch?v=D1NX2dr3voU&t=29s) [the chronological feed](https://www.youtube.com/watch?v=R6CJF4FqKKU&t=278s), fix it instead.
 
 The bell / subscribe system is broken and has been mentioned by both viewers and creators. You have denied this vehemently in the past. However, recently a video on one of your own channels you mentioned the issue happened to you and mentioned this would be escalated. In this specific issue it might just have been an MQ (message queue) issue with sending out announcements (or your email service provider experienced downtime).
 
